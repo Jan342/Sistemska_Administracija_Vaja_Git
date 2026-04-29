@@ -1,0 +1,7 @@
+*   e0634d7 (HEAD -> main) Merge branch 'cut_prestej'
+|\  
+| * f7560e1 (origin/cut_prestej, cut_prestej)  prestej func
+| * 3ecaccf razrezi func
+* | 70c6638 (origin/resize_veja, resize_veja) Add zmansaj func
+|/  
+* 30cd3b2 (origin/main) Initial commit
